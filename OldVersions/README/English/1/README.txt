@@ -1,295 +1,207 @@
 
 ***
 
-# <projectName>
+[[`Logo coming soon`]]
 
-![{Project icon} This image failed to load. It may be due to the file not being reached, or a general error. Reload the page to fix a possible general error.](Image.svg)
+# Kevin MacLeod Software Radio LIBrary
 
-# By:
-
-![{Developer name} This image failed to load. It may be due to the file not being reached, or a general error. Reload the page to fix a possible general error.](Image2.svg)
-
-### Top
-
-# `README.md`
+`🇰🎼️📻️📚️ The official source repository for the Kevin MacLeod software radio LIbrary, a portable way of adding a Kevin MacLeod radio to your software that plays Kevin MacLeods music.`
 
 ***
 
-## Read this article in a different language
+## Stations
 
-[ar عربى](README_AR.md) [zh-t 中國傳統的）](README_ZH-T.md)[**en-us**](README.md) [fr français](README_FR.md) [de Deutsch](README_DE.md) [EO Esperanto](README_EO.md)  [ja 日本語](README_JA.md) [ko-south 韓國語](README_KO_SOUTH.md) [pl polski](README_PL.md) [ru русский](README_RU.md) [es en español](README_ES.md)
+There are currently 80 Kevin MacLeod Radio Stations available in this package, which include:
 
-Translations in languages other than English are machine translated and are not yet accurate. No errors have been fixed yet as of March 21st 2021. Please report translation errors [here](https://github.com/seanpm2001/<repoName>/issues/). Make sure to backup your correction with sources and guide me, as I don't know languages other than English well (I plan on getting a translator eventually) please cite [wiktionary](https://en.wiktionary.org) and other sources in your report. Failing to do so will result in a rejection of the correction being published.
-
-***
-
-# Index
-
-[00.0 - Top](#Top)
-
-> [00.1 - Title](#<projectName>)
-
-> [00.2 - Read this article in a different language](#Read-this-article-in-a-different-language)
-
-> [00.3 - Index](#Index)
-
-[01.0 - Description](#RepositoryName)
-
-[02.0 - About](#About)
-
-[03.0 - Wiki](#Wiki)
-
-[04.0 - Version history](#Version-history)
-
-[05.0 - Software status](#Software-status)
-
-[06.0 - Sponsor info](#Sponsor-info)
-
-[07.0 - Contributers](#Contributers)
-
-[08.0 - Issues](#Issues)
-
-> [08.1 - Current issues](#Current-issues)
-
-> [08.2 - Past issues](#Past-issues)
-
-> [08.3 - Past pull requests](#Past-pull-requests)
-
-> [08.4 - Active pull requests](#Active-pull-requests)
-
-[09.0 - Resources](#Resources)
-
-[10.0 - Contributing](#Contributing)
-
-[11.0 - About README](#About-README)
-
-[12.0 - README Version history](#README-version-history)
-
-[13.0 - Footer](#You-have-reached-the-end-of-the-README-file)
-
-> [13.1 - End of file](#EOF)
-
-***
-
-# <repoName>
-<repo_description>
-
-***
-
-## About
-
-See above. <extendedRepoDescription>
-
-***
-
-## Wiki
-
-[Click/tap here to view this projects Wiki](https://github.com/seanpm2001/<repoName>/wiki)
-
-If the project has been forked, the Wiki was likely removed. Luckily, I include an embedded version. You can view it [here](/External/ProjectWiki/).
-
-***
-
-## Sponsor info
-
-![SponsorButton.png](SponsorButton.png)
-
-You can sponsor this project if you like, but please specify what you want to donate to. [See the funds you can donate to here](https://github.com/seanpm2001/Sponsor-info/tree/main/For-sponsors)
-
-You can view other sponsor info [here](https://github.com/seanpm2001/Sponsor-info/)
-
-Try it out! The sponsor button is right up next to the watch/unwatch button.
-
-***
-
-## Version history
-
-**Version history currently unavailable**
-
-**No other versions listed**
+- [ ] Action Cuts
+- [ ] Anamalie
+- [ ] Aspiring
+- [ ] Atlantean Twilight
+- [ ] Bitter Suite
+- [ ] Calming
+- [ ] Carpe Diem
+- [ ] Cephalopod
+- [ ] Christmas!
+- [ ] Comedy Scoring
+- [ ] Danse Macabre
+- [ ] Dark Continent
+- [ ] Darkness
+- [ ] Dark World
+- [ ] Destruction Device
+- [ ] Disco Ultralounge
+- [ ] Dream Catcher
+- [ ] Dvorak Polka
+- [ ] Elona MP3 Pack
+- [ ] Ethereal
+- [ ] Ever Mindful
+- [ ] Exhilarate
+- [ ] Experimental
+- [ ] Famous Classics
+- [ ] Ferret
+- [ ] Film Noire
+- [ ] Final Battle
+- [ ] Funkorama
+- [ ] Garden Music
+- [ ] Groovy
+- [ ] Happyrock
+- [ ] Hard Electronic
+- [ ] Healing
+- [ ] Horror Soundscapes
+- [ ] Impact
+- [ ] Laserpack
+- [ ] Latinesque
+- [ ] Latin Sounds
+- [ ] Light Electronic
+- [ ] Maccary Bay
+- [ ] Madness and Paranoia
+- [ ] Mad Pianist
+- [ ] Magic Scout_ A Calm Experience
+- [ ] Medium Electronic
+- [ ] Mesmerize
+- [ ] Mystery
+- [ ] Mystic Force
+- [ ] Netherworld Shanty
+- [ ] Oddities
+- [ ] Organic Meditations
+- [ ] Pixelland
+- [ ] Polka! Polka! Polka!
+- [ ] Primal Drive
+- [ ] PsychoKiller
+- [ ] Reggae & Ska
+- [ ] Reunited
+- [ ] Rollin’ at 5
+- [ ] Romance
+- [ ] Royalty Free
+- [ ] Sadness
+- [ ] Sheep Reliability
+- [ ] Silent Film_ Dark Collection
+- [ ] Silent Film_ Light Collection
+- [ ] Somewhere Sunny
+- [ ] Spring Chicken
+- [ ] Supernatural Haunting
+- [ ] Teh Jazzes
+- [ ] Tenebrous Brothers Carnival
+- [ ] Thatched Villagers
+- [ ] The Ambient
+- [ ] The Descent
+- [ ] Touching Moments
+- [ ] Tranquility 5
+- [ ] Traveller
+- [ ] Utility
+- [ ] Vadodara
+- [ ] Vicious
+- [ ] video Classica
+- [ ] Virtutes Instrumenti
+- [ ] Wonders
 
 ***
 
-## Software status
+## Usage
 
-All of my works are free some restrictions. DRM (**D**igital **R**estrictions **M**anagement) is not present in any of my works.
-
-![DRM-free_label.en.svg](DRM-free_label.en.svg)
-
-This sticker is supported by the Free Software Foundation. I never intend to include DRM in my works.
-
-I am ussing the abbreviation "Digital Restrictions Management" instead of the more known "Digital Rights Management" as the common way of addressing it is false, there are no rights with DRM. The spelling "Digital Restrictions Management" is more accurate, and is supported by [Richard M. Stallman (RMS)](https://en.wikipedia.org/wiki/Richard_Stallman) and the [Free Software Foundation (FSF)](https://en.wikipedia.org/wiki/Free_Software_Foundation)
-
-This section is used to raise awareness for the problems with DRM, and also to protest it. DRM is defective by design and is a major threat to all computer users and software freedom.
-
-Image credit: [defectivebydesign.org/drm-free/...](https://www.defectivebydesign.org/drm-free/how-to-use-label)
+The projects intended use is to be a radio station within an application or video game (similar to that of the radio stations in Grand Theft Auto)
 
 ***
 
-## Contributers
+## Implementations
 
-Currently, I am the only contributer. Contributing is allowed, as long as you follow the rules of the [CONTRIBUTING.md](CONTRIBUTING.md) file.
+The project is currently planned to be implemented in the following languages:
 
-> * 1. [seanpm2001](https://github.com/seanpm2001/) - x commits (As of DoW, Month, DoM, Yr at ##:## a/pm)
+- [ ] ActionScript
+- [ ] AppleScript
+- [ ] Assembly
+- [ ] Boo
+- [ ] C
+- [ ] C#
+- [ ] C++
+- [ ] CoffeeScript
+- [ ] Crystal
+- [ ] CSound Document
+- [ ] CSound Score
+- [ ] Cython
+- [ ] D
+- [ ] Eiffel
+- [ ] Elixir
+- [ ] Emacs Lisp
+- [ ] Genie
+- [ ] GLSL
+- [ ] Google Dart
+- [ ] Google Go
+- [ ] Gosu
+- [ ] Groovy
+- [ ] Haskell
+- [ ] Java
+- [ ] JavaScript
+- [ ] Kotlin
+- [ ] Lua
+- [ ] mcfunction
+- [ ] Metal
+- [ ] Nim
+- [ ] Objective-C
+- [ ] Pascal
+- [ ] Perl
+- [ ] PHP
+- [ ] Prolog
+- [ ] Python
+- [ ] R
+- [ ] Raku
+- [ ] Red
+- [ ] Rust
+- [ ] Scala
+- [ ] Scheme
+- [ ] Shell
+- [ ] Swift
+- [ ] Twig
+- [ ] TypeScript
+- [ ] V
+- [ ] Vala
+- [ ] WebAssembly
+- [ ] Zig
 
-> * 2. No other contributers.
-
-***
-
-## Issues
-
-### Current issues
-
-* None at the moment
-
-* No other current issues
-
-If the repository has been forked, issues likely have been removed. Luckily I keep an archive of certain images [here](/.github/Issues/)
-
-[Read the privacy policy on issue archival here](/.github/Issues/README.md)
-
-**TL;DR**
-
-I archive my own issues. Your issue won't be archived unless you request it to be archived.
-
-### Past issues
-
-* None at the moment
-
-* No other past issues
-
-If the repository has been forked, issues likely have been removed. Luckily I keep an archive of certain images [here](/.github/Issues/)
-
-[Read the privacy policy on issue archival here](/.github/Issues/README.md)
-
-**TL;DR**
-
-I archive my own issues. Your issue won't be archived unless you request it to be archived.
-
-### Past pull requests
-
-* None at the moment
-
-* No other past pull requests
-
-If the repository has been forked, issues likely have been removed. Luckily I keep an archive of certain images [here](/.github/Issues/)
-
-[Read the privacy policy on issue archival here](/.github/Issues/README.md)
-
-**TL;DR**
-
-I archive my own issues. Your issue won't be archived unless you request it to be archived.
-
-### Active pull requests
-
-* None at the moment
-
-* No other active pull requests
-
-If the repository has been forked, issues likely have been removed. Luckily I keep an archive of certain images [here](/.github/Issues/)
-
-[Read the privacy policy on issue archival here](/.github/Issues/README.md)
-
-**TL;DR**
-
-I archive my own issues. Your issue won't be archived unless you request it to be archived.
+More languages will be added in the future. The goal is for the library to be compatible with as many languages as possible.
 
 ***
 
-## Resources
+## Documentation
 
-Here are some other resources for this project:
+Further documentation is available in a separate repository.
 
-[Project language file](PROJECT_LANG.<fileExtensionForProgrammingLanguage>)
-
-[Join the discussion on GitHub](https://github.com/seanpm2001/<repoName>/discussions)
-
-No other resources at the moment.
+> [:octocat: `Click/tap here to go to the official documentation source repository`](https://github.com/seanpm2001/Kevin-MacLeod_SoftwareRadioLIBrary_Docs/)
 
 ***
 
-## Contributing
+# File info
 
-Contributing is allowed for this project, as long as you follow the rules of the `CONTRIBUTING.md` file.
-
-[Click/tap here to view the contributing rules for this project](CONTRIBUTING.md)
-
-***
-
-## About README
-
-File type: `Markdown (*.md)`
-
-File version: `0.1 (Sunday, March 21st 2021 at 7:50 pm)`
-
-Line count: `0,296`
+- **File version:** `1 (2023, Sunday, November 5th at 8:23 pm PST)`
+- **Line count (including blank lines and compiler line):** `208`
 
 ***
 
-## README version history
+# File history
 
-Version 0.1 (Sunday, March 21st 2021 at 7:50 pm)
+## Version 1 (2023, Sunday, November 5th at 8:23 pm PST)
 
-> Changes:
+- This version was made by [:octocat: `@seanpm2001`](https://github.com/seanpm2001/)
 
-> * Started the file
+> Changes
 
-> * Added the title section
-
-> * Added the index
-
-> * Added the about section
-
-> * Added the Wiki section
-
-> * Added the version history section
-
-> * Added the issues section.
-
-> * Added the past issues section
-
-> * Added the past pull requests section
-
-> * Added the active pull requests section
-
-> * Added the contributors section
-
-> * Added the contributing section
-
-> * Added the about README section
-
-> * Added the README version history section
-
-> * Added the resources section
-
-> * Added a software status section, with a DRM free sticker and message
-
-> * Added the sponsor info section
-
-> * No other changes in version 0.1
-
-Version 1 (Coming soon)
-
-> Changes:
-
-> * Coming soon
-
-> * No other changes in version 1
-
-Version 2 (Coming soon)
-
-> Changes:
-
-> * Coming soon
-
-> * No other changes in version 2
+- [x] Started the file
+- [x] Added the title section
+- [x] Added the `Stations` section
+- [x] Added the `Usage` section
+- [x] Added the `Implementations` section
+- [x] Added the `Documentation` section
+- [x] Added the `File info` section
+- [x] Added the `File history` section
+- - [x] Added an entry for version 1
+- [x] Added the footer
+- [ ] No other changes in version 1
 
 ***
 
-### You have reached the end of the README file
+# Footer
 
-[Back to top](#Top) [Exit](https://github.com)
+You have reached the end of this page.
 
-### EOF
+###### EOF
 
 ***
