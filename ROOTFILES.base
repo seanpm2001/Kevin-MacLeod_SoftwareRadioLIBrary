@@ -1,5 +1,6 @@
 /.github/
 /.gitlab/
+/Branches/
 /Docs/
 /Kevin-MacLeod-Software-Radio/
 /OldVersions/
@@ -23,6 +24,8 @@
 /INSTALL
 /INSTALL.rst
 /K.desktop
+/Kevin-Macleod-Audio.md
+/Kevin-Macleod-Software-Radio-LIBrary_REPOLIST.urll
 /KevinMacleodSoftwareRadioLIBrary_1500pxIcon_V1_HighCompression.png
 /LICENSE-AUDIO.txt
 /LICENSE-CC-BY-3.txt
@@ -31,6 +34,7 @@
 /LICENSE.txt
 /Patreon_Ringtones_Kevin_MacLeod_Screenshot.jpeg
 /README.md
+/REPOLIST.urll
 /ROOTFILES.base
 /SECURITY.md
 /SponsorButton.png
